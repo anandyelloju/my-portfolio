@@ -2,9 +2,9 @@
 # My Portfolio
 
 A personal portfolio website built with Bootstrap CSS and HTML. Showcases experience, skills, and projects information.
-<!--
-**Live Demo -** https://anandyelloju.github.io/my-portfolio/
 
+**Live Demo -** https://anandyelloju.github.io/my-portfolio/
+<!--
 ## Table of Contents
 
 - [Screenshots](#screenshots)
