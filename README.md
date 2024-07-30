@@ -15,14 +15,14 @@ A personal portfolio website built with Bootstrap CSS and HTML. Showcases experi
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![Homepage](screenshots/Home.png)
 ![Experience](screenshots/Exp.png)
 ![Projects Section](screenshots/Projects.png)
 ![About Section](screenshots/About.png)
-
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
