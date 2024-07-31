@@ -22,7 +22,7 @@ A personal portfolio website built with Bootstrap CSS and HTML. Showcases experi
 ![Experience](screenshots/Exp.png)
 ![Projects Section](screenshots/Projects.png)
 ![About Section](screenshots/About.png)
-<!--
+
 ## Installation
 
 To set up this project locally, follow these steps:
@@ -35,7 +35,7 @@ To set up this project locally, follow these steps:
   cd myportfolio
   ```
 3. Open the index.html file in your web browser to view the portfolio.
-
+<!--
 ## Usage
 
 After installation, you can view and edit the project directly in your web browser. The portfolio includes several sections:
