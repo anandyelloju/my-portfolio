@@ -28,14 +28,14 @@ A personal portfolio website built with Bootstrap CSS and HTML. Showcases experi
 To set up this project locally, follow these steps:
 1. Clone the repository:   
   ```
-  git clone https://github.com/your-username/myportfolio.git
+  git clone https://github.com/anandyelloju/my-portfolio.git
   ```
 2. Navigate to the project directory:
   ```
-  cd myportfolio
+  cd my-portfolio
   ```
 3. Open the index.html file in your web browser to view the portfolio.
-<!--
+
 ## Usage
 
 After installation, you can view and edit the project directly in your web browser. The portfolio includes several sections:
@@ -89,7 +89,7 @@ To add a new project to the portfolio, update the index.html file as follows:
     </div>
 </div>
 ```
-
+<!--
 ## Features
 
 - **Responsive Design:** Optimized for both desktop and mobile devices.
