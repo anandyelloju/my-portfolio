@@ -89,12 +89,12 @@ To add a new project to the portfolio, update the index.html file as follows:
     </div>
 </div>
 ```
-<!--
+
 ## Features
 
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Project Showcase:** Highlight your best projects with descriptions and links.
-
+<!--
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
