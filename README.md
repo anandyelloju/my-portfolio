@@ -94,7 +94,7 @@ To add a new project to the portfolio, update the index.html file as follows:
 
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Project Showcase:** Highlight your best projects with descriptions and links.
-<!--
+
 ## Technologies Used
 
 - **HTML:** Markup language for creating web pages.
@@ -102,7 +102,7 @@ To add a new project to the portfolio, update the index.html file as follows:
 - **Bootstrap:** CSS framework for responsive design.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
