@@ -102,11 +102,11 @@ To add a new project to the portfolio, update the index.html file as follows:
 - **Bootstrap:** CSS framework for responsive design.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) for the styling framework.
