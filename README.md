@@ -106,12 +106,12 @@ To add a new project to the portfolio, update the index.html file as follows:
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-<!--
+
 ## Credits
 
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) for the styling framework.
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) for structuring a web page.
-
+<!--
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/anandyelloju/my-portfolio/blob/main/LICENSE) file for details.
